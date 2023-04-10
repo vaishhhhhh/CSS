@@ -101,7 +101,8 @@ width: 30%;
 font-size: 10px;
   padding: 20px 0;
 }
-
+ul li {
+  text-decoration: none;
 .btn{
   background: #32b8b8;
   background-image: -webkit-linear-gradient(top, #32b8b8, #64debd);
